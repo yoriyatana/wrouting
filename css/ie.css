@@ -1,0 +1,7 @@
+div#content form.contact label.cabinet input.file{
+ filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+}
+div#pusher{
+ height:auto !important;
+ height:299px;
+}
