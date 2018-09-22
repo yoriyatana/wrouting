@@ -106,9 +106,9 @@ def parse_route_advertised_juniper(raw_input, pattern):
 
 def main():
         db_host = "localhost"
-        db_user = "root"
-        db_pass = "2010!mayman"
-        db_name = "wrouting"
+        db_user = "abc"
+        db_pass = "xyz"
+        db_name = "123"
 
         start = time.time()
 
